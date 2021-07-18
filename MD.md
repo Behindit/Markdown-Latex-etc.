@@ -267,9 +267,4 @@ GitHub implementa Markdown, pero añade unos cuantos extras. a continuación te 
 
 #To do
 
-Son tareas con una checkbox
-
-EJ:
-~~~
-* [x]Hecho
-* [ ]No hecho
+Son tareas
