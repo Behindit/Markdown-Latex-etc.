@@ -265,7 +265,7 @@ Resultado:
 
 GitHub implementa Markdown, pero añade unos cuantos extras. a continuación te mostrare dichos extras y como utilizarlos
 
-#To do
+## To do
 
 Son tareas con una checkbox
 
@@ -273,3 +273,32 @@ EJ:
 ~~~
 * [x]Hecho
 * [ ]No hecho
+~~~
+Resultado:
+
+* [x]Hecho
+* [ ]No hecho
+
+## Mencionar a otro usuario de GitHub
+
+se puede mencionar a otros usuarios de GitHub al escribir @ seguido de su nombre de usuario
+
+EJ:
+~~~
+@Behindit
+~~~
+resultado:
+
+@Behindit
+
+## Emojis
+
+tambien se pueden introducir emojis, para saber como introducir cada emoji esta esta pagina: [Emojis](https://gist.github.com/rxaviers/7360908 "Lista completa de los emojis")
+
+EJ:
+~~~
+:smiley:
+~~~
+Resultado:
+
+:smiley:
