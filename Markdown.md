@@ -1,4 +1,4 @@
-#Markdown
+# Markdown
 
 Markdown es un lenguaje de marcado ligero, a continuación te mostrare como utilizar este lenguaje y su sintaxis
 
@@ -271,13 +271,13 @@ Son tareas con una checkbox
 
 EJ:
 ~~~
-* [x]Hecho
-* [ ]No hecho
+*[x]Hecho
+*[ ]No hecho
 ~~~
 Resultado:
 
-* [x]Hecho
-* [ ]No hecho
+*[x]Hecho
+*[ ]No hecho
 
 ## Mencionar a otro usuario de GitHub
 
@@ -285,11 +285,11 @@ se puede mencionar a otros usuarios de GitHub al escribir @ seguido de su nombre
 
 EJ:
 ~~~
-@Behindit
+@Valrojo
 ~~~
 resultado:
 
-@Behindit
+@Valrojo
 
 ## Emojis
 
