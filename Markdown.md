@@ -8,8 +8,8 @@ Para escribir títulos solo hace falta usar el símbolo # antes del titulo con 1
 
 EJ:
 ~~~
-# Tutorial Markdown
-###### Titulos
+# Titulo grande
+###### Titulo pequeño
 ~~~
 Resultado:
 # Titulo grande
