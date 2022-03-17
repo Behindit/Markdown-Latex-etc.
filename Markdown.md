@@ -2,6 +2,9 @@
 
 Markdown es un lenguaje de marcado ligero, a continuación te mostrare como utilizar este lenguaje y su sintaxis
 
+[Volver a Inicio](https://github.com/Behindit/Markdown-Latex-etc./blob/main/README.md "README")
+
+
 ## Titulos
 
 Para escribir títulos solo hace falta usar el símbolo # antes del titulo con 1 espacio entre ellos, para escribir un titulo mas pequeño se le agrega un # mas, así hasta la cantidad máxima de 6.
